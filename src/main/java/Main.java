@@ -17,4 +17,8 @@ public class Main {
      public int comingFromForked(int i){
         return i;
     }
+    
+     public int anotherFromForked(int i){
+        return i;
+    }
 }
